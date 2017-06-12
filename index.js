@@ -1,3 +1,3 @@
-var message = 'Ola, Mundo!';
+var message = 'Olá, GitHub!';
 
 console.log(message);
